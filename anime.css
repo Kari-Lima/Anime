@@ -1,0 +1,68 @@
+.anime{
+	background-color: sienna;
+	margin: auto;
+	color: black;
+	font-family: arial,helvetica,sans-serif;
+	text-align: center;
+	padding: 0;
+    
+}
+h1 {
+	color: white;
+	background-image: linear-gradient(45deg,black,crimson);
+	font-family: serif;
+	text-align: center;
+}
+
+h2 {
+	font-family: sans-serif;
+	border-bottom: 2px solid #333333;
+	background-color: #4682B4;
+}
+
+h3{
+	color: black;
+	font-family: sans-serif;
+	border-bottom: 2px solid #333333;
+	background-color: #4682B4;
+}
+
+p {
+	font-family: monospace;
+	line-height: 20px; /* tamanho da altura de cada linha */
+	letter-spacing: 1.5px; /* tamanho do espaço entre cada letra */
+	word-spacing: 5px; /* tamanho do espaço entre cada palavra */
+	text-indent: 45px; /* tamanho da margem da primeira linha do texto */
+	text-align: justify; /* texto justificado */
+	/* padding: 20px; */
+	padding: 10px 15px 20px 5px; /* Espaçamento */
+	padding: 45px;
+	text-indent: 30px;
+	/* height: 150px;
+	width: 150px; */
+
+}
+
+body {
+	font-family: "Arial","Helvetica",sans-serif;
+	background-color: black;
+	border-style: solid;
+	border-width: 2px;
+	/* border: 1px solid red; */
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	width: 940px;
+	color: black;
+}
+body{
+	background-color: sienna;
+	background-image: url(https://i.pinimg.com/originals/c2/db/d7/c2dbd7a94911379eb1e744d0758cb05f.gif);
+    color: white;
+    padding-top: 10px;
+
+}
+.informe{
+      
+
+}
